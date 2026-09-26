@@ -15,7 +15,7 @@ M.S. Environmental Science Program, California State University, Monterey Bay
 
 3. University of Maryland Center for Environmental Science (UMCES). 2025. 2025 Chesapeake Bay and Watershed Report Card. Cambridge (MD): UMCES Integration and Application Network. https://chesapeakebayreportcard.org
 
-4. Carmel River Watershed Conservancy (CRWC). 2025. Carmel River Watershed Health Report Card. [(https://www.carmelriverwatershed.org/watershed-health-report-card)].
+4. Carmel River Watershed Conservancy (CRWC). 2025. Carmel River Watershed Health Report Card. (https://www.carmelriverwatershed.org/watershed-health-report-card).
 
 5. Canadian Council of Ministers of the Environment (CCME). 2001. Canadian water quality guidelines for the protection of aquatic life: CCME Water Quality Index 1.0, technical report. Winnipeg (MB): CCME.
 
