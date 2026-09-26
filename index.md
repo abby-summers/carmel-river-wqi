@@ -15,11 +15,11 @@ M.S. Environmental Science Program, California State University, Monterey Bay
 
 3. University of Maryland Center for Environmental Science (UMCES). 2025. 2025 Chesapeake Bay and Watershed Report Card. Cambridge (MD): UMCES Integration and Application Network. https://chesapeakebayreportcard.org
 
-4. [NEEDS SOURCE] Carmel River Watershed Conservancy (CRWC). 2025. Carmel River Watershed Health Report Card. [URL].
+4. Carmel River Watershed Conservancy (CRWC). 2025. Carmel River Watershed Health Report Card. [(https://www.carmelriverwatershed.org/watershed-health-report-card)].
 
 5. Canadian Council of Ministers of the Environment (CCME). 2001. Canadian water quality guidelines for the protection of aquatic life: CCME Water Quality Index 1.0, technical report. Winnipeg (MB): CCME.
 
-6. Central Coast Ambient Monitoring Program (CCAMP). 2026. CCAMP Data Navigator. [accessed ADD DATE]. https://www.ccamp.org/datanavigator/
+6. Central Coast Ambient Monitoring Program (CCAMP). 2026. CCAMP Data Navigator. https://www.ccamp.org/datanavigator/
 
 ## Additional Literature
 
